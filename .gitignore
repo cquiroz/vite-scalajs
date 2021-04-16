@@ -1,0 +1,16 @@
+.hydra/
+*.class
+*.log
+target/
+.idea/
+react-virtualized
+metals.sbt
+.metals/
+.bloop/
+local.*
+node_modules/
+yarn.lock
+travis/secrets.tar
+.bsp/
+demo/project/
+static/
